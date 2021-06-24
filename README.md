@@ -3,13 +3,14 @@
 <p><strong>Backend Java Developer 🏃🏻</strong> Developer of <a href="https://www.upennsolution.com/">upennsolution</a></p>
 
 
- <!-- 
+  
 <h3 align="center">Peronal Web Pages</h3>
 <p align="center">
-  <a href="https://dankim.gatsbyjs.io/">
+  <a href="https://joshuakim.gatsbyjs.io/">
     <img height=35 src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gatsby.svg" alt="personal gatsby blog" />
   </a>
   &nbsp;&nbsp;&nbsp;
+<!--
   <a href="https://www.notion.so/I-am-Dan_kim-8471e82255434b1682c5fcc27769ab7f">
     <img height=35 src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/notion.svg" alt="my notion page" />
   </a>
