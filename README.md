@@ -1,4 +1,4 @@
-# Hello, I'm Joshua 😁
+# Hello, I'm Joshua 💻
 
 <p><strong>Backend Java Developer 🏃🏻</strong> Developer of <a href="https://www.upennsolution.com/">upennsolution</a></p>
 
