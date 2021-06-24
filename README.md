@@ -46,7 +46,7 @@
 <div align="center">
   <!--  github stats   -->
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingJ7235&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingJ7235&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
