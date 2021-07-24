@@ -6,7 +6,7 @@
   
 <h3 align="center">Peronal Web Pages</h3>
 <p align="center">
-  <a href="https://joshuakim.gatsbyjs.io/">
+  <a href="https://velog.io/@joshuara7235">
     <img height=35 src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gatsby.svg" alt="personal gatsby blog" />
   </a>
   &nbsp;&nbsp;&nbsp;
