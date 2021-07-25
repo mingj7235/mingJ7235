@@ -1,6 +1,6 @@
 # Hello, I'm Joshua 💻
 
-<link href = https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css rel ="stylesheet">
+<!-- <link href = https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css rel ="stylesheet"> -->
 
 
 
@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://velog.io/@joshuara7235">
     <img height=35 src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gatsby.svg" alt="personal blog" />
-    <i class="fas fa-blog"></i> 
+<!--     <i class="fas fa-blog"></i>  -->
   </a>
   &nbsp;&nbsp;&nbsp;
 <!--
