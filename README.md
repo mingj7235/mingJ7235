@@ -14,6 +14,7 @@
 <p align="center">
   <a href="https://velog.io/@joshuara7235">
     <img height=35 src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gatsby.svg" alt="personal blog" />
+    <div>아이콘 제작자 <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/kr/" title="Flaticon">www.flaticon.com</a></div>
 <!--     <i class="fas fa-blog"></i>  -->
   </a>
   &nbsp;&nbsp;&nbsp;
