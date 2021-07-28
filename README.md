@@ -18,7 +18,7 @@
     
     
   </a>
-  https://velog-readme-stats.vercel.app/api/badge?name=eungyeole
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=joshuara7235)]
   &nbsp;&nbsp;&nbsp;
 <!--
   <a href="https://www.notion.so/I-am-Dan_kim-8471e82255434b1682c5fcc27769ab7f">
