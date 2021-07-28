@@ -3,10 +3,13 @@
 <!-- <link href = https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css rel ="stylesheet"> -->
 
 
+<div align="center">
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=mingJ7235)](https://velog.io/@eungyeole)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=joshuara7235)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=joshuara7235&color=dark)](https://github.com/eungyeole/velog-readme-stats)
 
+
+</div> 
 <p><strong>Backend Java Developer 🏃🏻</strong> Developer of <a href="https://www.upennsolution.com/">upennsolution</a></p>
 
 
