@@ -3,9 +3,10 @@
 <!-- <link href = https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css rel ="stylesheet"> -->
 
 
-<div align="center">
+<div display: flex;
+            justify-content: center;>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=mingJ7235)](https://velog.io/@eungyeole)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=mingJ7235)](https://velog.io/@eungyeole) 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=joshuara7235&color=dark)](https://github.com/eungyeole/velog-readme-stats)
 
 
