@@ -4,9 +4,12 @@
 
 
 <div align = "center">
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=mingJ7235)](https://velog.io/@eungyeole) <br>
+<div>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=mingJ7235)](https://velog.io/@eungyeole)
+  </div>
+  <div>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=joshuara7235&color=dark)](https://github.com/eungyeole/velog-readme-stats)
+  </div>
 
 
 </div> 
