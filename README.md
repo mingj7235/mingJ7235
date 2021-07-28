@@ -5,6 +5,7 @@
 
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=mingJ7235)](https://velog.io/@eungyeole)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=joshuara7235)](https://github.com/eungyeole/velog-readme-stats)
 
 <p><strong>Backend Java Developer 🏃🏻</strong> Developer of <a href="https://www.upennsolution.com/">upennsolution</a></p>
 
@@ -18,8 +19,8 @@
     
     
   </a>
-  
-  &nbsp;&nbsp;&nbsp;
+ </p> 
+
 <!--
   <a href="https://www.notion.so/I-am-Dan_kim-8471e82255434b1682c5fcc27769ab7f">
     <img height=35 src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/notion.svg" alt="my notion page" />
