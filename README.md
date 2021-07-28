@@ -2,18 +2,19 @@
 
 <!-- <link href = https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css rel ="stylesheet"> -->
 
+<p><strong>Backend Java Developer 🏃🏻</strong> Developer of <a href="https://www.upennsolution.com/">upennsolution</a></p>
 
+<hr>
 <div align = "center">
-<div>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=mingJ7235)](https://velog.io/@eungyeole)
-  </div>
-  <div>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=mingJ7235)](https://velog.io/@eungyeole) <br>
+  
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=joshuara7235&color=dark)](https://github.com/eungyeole/velog-readme-stats)
-  </div>
+  
 
 
 </div> 
-<p><strong>Backend Java Developer 🏃🏻</strong> Developer of <a href="https://www.upennsolution.com/">upennsolution</a></p>
+
 
 
   
