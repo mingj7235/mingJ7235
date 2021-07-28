@@ -14,6 +14,8 @@
 <p align="center">
   <a href="https://velog.io/@joshuara7235">
     <img height=35 src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gatsby.svg" alt="personal blog" />
+    [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=joshuara7235)](https://velog.io/@joshuara7235) 
+    [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=joshuara7235)](https://github.com/mingJ7235/velog-readme-stats)
     
   </a>
   &nbsp;&nbsp;&nbsp;
