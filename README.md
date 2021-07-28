@@ -7,7 +7,8 @@
 <hr>
 <div align = "center">
 
-Peronal Web Pages 👉 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=mingJ7235)](https://velog.io/@joshuara7235) <br>
+  <div>Peronal Web Pages </div>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=mingJ7235)](https://velog.io/@joshuara7235) <br>
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=joshuara7235&color=dark)](https://velog.io/@joshuara7235)
   
