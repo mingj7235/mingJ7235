@@ -64,6 +64,16 @@
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingJ7235&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
   
 </div>
+
+
+<div align="center">
+  
+[![mingJ7235's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mingJ7235&show_icons=true&hide_border=true&title_color=007777&icon_color=008888&layout=compact)](https://github.com/mingJ7235/)
+
+</div>
+
+<hr>
+
 <div align="center">
   <!--  github stats   -->
   
@@ -71,12 +81,8 @@
   
 </div>
 
-<div align="center">
-  
-[![mingJ7235's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mingJ7235&show_icons=true&hide_border=true&title_color=007777&icon_color=004386&layout=compact)](https://github.com/mingJ7235/)
 
-</div>
-
+<hr>
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xoxwgys56&repo=xoxwgys56)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
