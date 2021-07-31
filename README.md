@@ -71,6 +71,7 @@
   
 </div>
 
+[![mingJ7235's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mingJ7235&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/mingJ7235/)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xoxwgys56&repo=xoxwgys56)](https://github.com/anuraghazra/github-readme-stats) -->
 
