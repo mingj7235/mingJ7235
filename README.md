@@ -4,7 +4,7 @@
 
 <p><strong>Full Stack Developer 🏃🏻</strong> Developer of <a href="https://www.upennsolution.com/">upennsolution</a></p>
 
-<h3 align="center"> ⚙️ Ming's Tech Stack </h3>
+<h3 align="center"> ⚙️ Joshua's Tech Stack </h3>
 
 <p align="center"> Techs that I've used at least once 🌱 </p>
 
