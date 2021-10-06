@@ -3,7 +3,7 @@
 <!-- <link href = https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css rel ="stylesheet"> -->
 
 <p><strong>Full Stack Developer 🏃🏻</strong> Developer of <a href="https://www.upennsolution.com/">upennsolution</a></p>
-<p> I love working with .. <super>Java, Spring, ES6 JavaScript, TypeScript, Angular8, Python</super> 🌱 </p>
+<p> I love working with .. <super>Java, Spring, ES6 JavaScript, TypeScript, Angular8, Python / JPA, QueryDSL, MySql, Redis / AWS, MSA, Jenkins, Swagger, RestDoc</super> 🌱 </p>
 
 <hr>
 <div align = "center">
