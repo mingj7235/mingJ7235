@@ -33,7 +33,7 @@
   
 <p align="center">
   <img src="https://img.shields.io/badge/IntelliJ-f62f5a?style=flat-square&logo=IntelliJIDEA&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Eclipse-2c2255?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Eclipse-2c2255?style=flat-square&logo=eclipseide&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/PyCharm-56d57d?style=flat-square&logo=PyCharm&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>&nbsp
