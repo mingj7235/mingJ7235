@@ -29,7 +29,7 @@
   <br>
 </p>
 
-<p align="center"> Tools that I love work with 🛠 </p>
+<p align="center"> Tools that I've used at least once 🛠 </p>
   
 <p align="center">
   <img src="https://img.shields.io/badge/IntelliJ-f62f5a?style=flat-square&logo=IntelliJIDEA&logoColor=white"/></a>&nbsp
