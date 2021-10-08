@@ -23,6 +23,8 @@
   <img src="https://img.shields.io/badge/JPA-21c896?style=flat-square&logo=Hibernate&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Zeplin-7BBB6E?style=flat-square&logo=Zerply&logoColor=white"/></a>&nbsp 
+  
   <br>
 </p>
 
