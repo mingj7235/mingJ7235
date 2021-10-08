@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/PyCharm-56d57d?style=flat-square&logo=PyCharm&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Jira-0052cc?style=flat-square&logo=jira&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Jira-0052cc?style=flat-square&logo=jirasoftware&logoColor=white"/></a>&nbsp 
 </p>
 
 
