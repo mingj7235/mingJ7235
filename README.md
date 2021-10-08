@@ -30,14 +30,14 @@
 </p>
 
 <p align="center"> Tools that I love work with 🛠 </p>
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/ES6_Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Typescript-1572B6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
-<p align="center">
   
+<p align="center">
+  <img src="https://img.shields.io/badge/IntelliJ-f62f5a?style=flat-square&logo=IntelliJIDEA&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Eclipse-2c2255?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/PyCharm-56d57d?style=flat-square&logo=PyCharm&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Jira-0052cc?style=flat-square&logo=jira&logoColor=white"/></a>&nbsp 
 </p>
 
 
