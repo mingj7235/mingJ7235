@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/JPA-21c896?style=flat-square&logo=Hibernate&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Zeplin-7BBB6E?style=flat-square&logo=Zerply&logoColor=white"/></a>&nbsp 
+  
   
   <br>
 </p>
@@ -38,7 +38,8 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Jira-0052cc?style=flat-square&logo=jirasoftware&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Postman-FF6c37?style=flat-square&logo=postman&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Postman-FF6c37?style=flat-square&logo=postman&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Zeplin-7BBB6E?style=flat-square&logo=Zerply&logoColor=white"/></a>&nbsp 
 </p>
 
 
