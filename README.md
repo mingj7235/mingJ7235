@@ -2,7 +2,7 @@
 
 <!-- <link href = https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css rel ="stylesheet"> -->
 
-<p><strong>Backend Developer 🏃🏻</strong></p>
+<p><strong> Backend Developer of <a href="https://www.traydcorp.com/">TRAYD</a> </strong> </p>
 
 <h3 align="center"> ⚙️ Joshua's Tech Stack </h3>
 
