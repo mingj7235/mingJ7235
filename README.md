@@ -128,12 +128,12 @@
 
 
 <hr>
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xoxwgys56&repo=xoxwgys56)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 
 
 <!--
-**xoxwgys56/xoxwgys56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
