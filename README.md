@@ -24,9 +24,9 @@
   <img src="https://img.shields.io/badge/JPA-21c896?style=flat-square&logo=Hibernate&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Redis-9F1D10?style=flat-square&logo=Redis&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Docker-2392E6?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Kubernetes-3069de?style=flat-square&logo=Kubernetes&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Github_Actions-black?style=flat-square&logo=Github&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp
