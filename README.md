@@ -59,9 +59,6 @@
 
 
 <hr>
-
-
-<hr>
 <div align = "center">
 
   velog 👉 <a href = https://velog.io/@joshuara7235>Peronal Web Pages 🌱</a>   <br><br>
