@@ -19,14 +19,14 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
   <br>
-    <p> [ Framework ] </p>
+  [ Framework ]
   <br>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringBatch-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Angular8-E23237?style=flat-square&logo=Angular&logoColor=white"/></a>&nbsp 
   <br>
-    <p> [ Database ] </p>
+  [ Database ]
   <br>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/JPA-21c896?style=flat-square&logo=Hibernate&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Redis-9F1D10?style=flat-square&logo=Redis&logoColor=white"/></a>&nbsp
   <br>
-    <p> [ Infra / DevOps ] </p>
+  [ Infra / DevOps ]
   <br>
   <img src="https://img.shields.io/badge/Docker-2392E6?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Kubernetes-3069de?style=flat-square&logo=Kubernetes&logoColor=white"/></a>&nbsp
