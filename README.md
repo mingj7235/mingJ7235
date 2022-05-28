@@ -50,6 +50,16 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/></a>&nbsp
 </p>
 
+<div align="center">
+  <!--  github stats   -->
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingJ7235&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+
+
+<hr>
+
 
 <hr>
 <div align = "center">
@@ -121,15 +131,7 @@
 
 <hr>
 
-<div align="center">
-  <!--  github stats   -->
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingJ7235&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
 
-
-<hr>
 
 
 
