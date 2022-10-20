@@ -55,7 +55,7 @@
 <div align="center">
   <!--  github stats   -->
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingJ7235&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingj7235&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
@@ -64,7 +64,7 @@
 <div align = "center">
 
   velog 👉 <a href = https://velog.io/@joshuara7235>Peronal Web Pages 🌱</a>   <br><br>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=mingJ7235)](https://velog.io/@joshuara7235)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=mingj7235)](https://velog.io/@joshuara7235)
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=joshuara7235&color=dark)](https://velog.io/@joshuara7235)
   
