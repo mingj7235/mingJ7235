@@ -51,13 +51,13 @@
   <img src="https://img.shields.io/badge/Zeplin-7BBB6E?style=flat-square&logo=Zerply&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/></a>&nbsp
 </p>
-
+<!-- 
 <div align="center">
-  <!--  github stats   -->
+  <!--  github stats  
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingj7235&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   
-</div>
+</div> -->
 
 
 <hr>
@@ -121,12 +121,12 @@
   
 </div>
 
-
+<!-- 
 <div align="center">
   
 [![mingj7235's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mingj7235&show_icons=true&hide_border=true&title_color=007777&icon_color=008888&layout=compact)](https://github.com/mingj7235/)
 
-</div>
+</div> -->
 
 <hr>
 
