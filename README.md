@@ -36,7 +36,7 @@
           [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=mingj7235)](https://velog.io/@joshuara7235)
          <a href=mailto:joshuara7235@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:joshuara7235@gmail.com"> </a>
           </div>  <br> 
-          [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=joshuara7235&color=dark)](https://velog.io/@joshuara7235)
+          
           <br>
     <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingj7235%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div> 
