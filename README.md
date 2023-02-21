@@ -1,27 +1,20 @@
-# Hello, I'm Joshua 💻
-
-<!-- <link href = https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css rel ="stylesheet"> -->
-
-<p><strong> Backend Developer </strong> </p>
-
-<h3 align="center"> ⚙️ Joshua's Tech Stack </h3>
-
-<p align="center"> [Techs] that I've used at least once 🌱 </p>
-
-<p align="center">
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Hello%20!%20I'm%20Joshua%20💻&animation=fadeIn&fontColor=ffffff&fontSize=50" />
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🤖 Backend & DevOps  </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 꾸준히, 성실히 그리고 탁월하게. </div> 
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Linux-E9B025?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/ES6_Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Typescript-1572B6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringCloud-6DB33F?style=flat-square&logo=SpringCloud&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringBatch-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Angular8-E23237?style=flat-square&logo=Angular&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
@@ -35,119 +28,25 @@
   <img src="https://img.shields.io/badge/AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Kafka-3069de?style=flat-square&logo=Kafka&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp 
-  <br>
-</p>
-
-<p align="center"> [Tools] that I've used at least once 🛠 </p>
-  
-<p align="center">
-  <img src="https://img.shields.io/badge/IntelliJ-f62f5a?style=flat-square&logo=IntelliJIDEA&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Eclipse-2c2255?style=flat-square&logo=eclipseide&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/PyCharm-56d57d?style=flat-square&logo=PyCharm&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Jira-0052cc?style=flat-square&logo=jirasoftware&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Postman-FF6c37?style=flat-square&logo=postman&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Zeplin-7BBB6E?style=flat-square&logo=Zerply&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/></a>&nbsp
-</p>
-<!-- 
-<div align="center">
-  <!--  github stats  
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingj7235&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div> -->
-
-
-<hr>
-<div align = "center">
-
-  velog 👉 <a href = https://velog.io/@joshuara7235>Peronal Web Pages 🌱</a>   <br><br>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=mingj7235)](https://velog.io/@joshuara7235)
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=joshuara7235&color=dark)](https://velog.io/@joshuara7235)
-  
-
-
-</div> 
-
-<hr>
-
-
-
-  
-<!-- <h3 align="center">Peronal Web Pages</h3>
-<p align="center">
-  <a href="https://velog.io/@joshuara7235">
-    <img height=35 src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gatsby.svg" alt="personal blog" />
+          </div>
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
+    <div style="text-align: left;"> <a href=https://www.instagram.com/ming_j_dev/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/ming_j_dev/"> </a>
+         <a href=https://velog.io/@joshuara7235> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@joshuara7235"> </a>
+         <a href=mailto:joshuara7235@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:joshuara7235@gmail.com"> </a>
+          </div>  <br> 
+    <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingj7235%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+       </div> 
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=mingj7235&bg_color=60,f98585,69f7d4&title_color=ffffff&text_color=ffffff"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingj7235&layout=compact&bg_color=60,f98585,69f7d4&title_color=ffffff&text_color=ffffff"
+           /> </div> 
+    </div>
     
     
     
-  </a>
- </p>  -->
-
-<!--
-  <a href="https://www.notion.so/I-am-Dan_kim-8471e82255434b1682c5fcc27769ab7f">
-    <img height=35 src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/notion.svg" alt="my notion page" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.notion.so/I-am-Dan_kim-8471e82255434b1682c5fcc27769ab7f">
-    <img height=35 src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/v.svg" alt="velog" />
-  </a>
-</p>
-
-<h3 align="center">I Love To Work With</h3>
-<p align="center">
-  <img height=20 src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" alt="python" />
-  &nbsp;&nbsp;
-  <img height=20 src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" alt="javascript" />
-  &nbsp;&nbsp;
-  <img height=20 src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/macos.svg" alt="macos" />
-  &nbsp;&nbsp;
-  <img height=20 src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/jirasoftware.svg" alt="jira software" />
-  &nbsp;&nbsp;
-  <img height=20 src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/amazonaws.svg" alt="amazon aws" />
-  &nbsp;&nbsp;
-  <img height=20 src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/slack.svg" alt="slack" />
-</p>
--->
-<br />
-<!-- use https://github.com/anuraghazra/github-readme-stats -->
-<div align="center">
-  <!--  language statistics  -->
-  
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingj7235&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
-  
-</div>
-
-<!-- 
-<div align="center">
-  
-[![mingj7235's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mingj7235&show_icons=true&hide_border=true&title_color=007777&icon_color=008888&layout=compact)](https://github.com/mingj7235/)
-
-</div> -->
-
-<hr>
 
 
 
-
-
-
-<!--
-
-
-Here are some ideas to get you started:
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
