@@ -19,7 +19,7 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=https://www.instagram.com/ming_j_dev/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/ming_j_dev/"> </a>
-         [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=mingj7235)](https://velog.io/@joshuara7235)
+         <a href=https://velog.io/@joshuara7235> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@joshuara7235"> </a>
          <a href=mailto:joshuara7235@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:joshuara7235@gmail.com"> </a>
           </div>  <br> 
     <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingj7235%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
@@ -52,3 +52,7 @@
           <img src="https://img.shields.io/badge/Kafka-3069de?style=flat-square&logo=Kafka&logoColor=white"><br>
            [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=mingj7235)](https://velog.io/@joshuara7235)
            [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=joshuara7235&color=dark)](https://velog.io/@joshuara7235)
+           
+           
+           
+           
