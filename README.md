@@ -14,6 +14,10 @@
           <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
+          <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
+          <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white">
+          <img src="https://img.shields.io/badge/SpringCloud-6DB33F?style=flat-square&logo=SpringCloud&logoColor=white">
+          <img src="https://img.shields.io/badge/SpringBatch-6DB33F?style=flat-square&logo=Spring&logoColor=white">
           </div>
     </div>
     <div style="text-align: left;">
