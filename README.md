@@ -26,7 +26,7 @@
           <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=GithubActions&logoColor=white">
           <img src="https://img.shields.io/badge/AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white">
           <img src="https://img.shields.io/badge/Kafka-3069de?style=flat-square&logo=Kafka&logoColor=white">
-          <br>
+          
          
          
           </div>
