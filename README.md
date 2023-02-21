@@ -5,9 +5,11 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🤖 Backend & DevOps  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 꾸준히, 성실히 그리고 탁월하게. </div> 
     </div>
+    
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=white">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2>
+    <br> 
+    <div style="margin: ; text-align: left;" "text-align: left;"> 
           <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/></a>&nbsp
@@ -25,15 +27,22 @@
   <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=GithubActions&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Kafka-3069de?style=flat-square&logo=Kafka&logoColor=white"/></a>&nbsp
-  
+  <br>
           </div>
     </div>
+    
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=https://www.instagram.com/ming_j_dev/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/ming_j_dev/"> </a>
-         <a href=https://velog.io/@joshuara7235> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@joshuara7235"> </a>
-         <a href=mailto:joshuara7235@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:joshuara7235@gmail.com"> </a>
-          </div>  <br> 
+    <div style="text-align: left;"> 
+        <a href=https://www.instagram.com/ming_j_dev/> 
+            <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/ming_j_dev/"> 
+            </a>
+         <a href=https://velog.io/@joshuara7235> 
+         <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@joshuara7235"> </a>
+         <a href=mailto:joshuara7235@gmail.com> 
+         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:joshuara7235@gmail.com"> </a>
+          </div>  
+          <br> 
           
           [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=mingj7235)](https://velog.io/@joshuara7235)
 
