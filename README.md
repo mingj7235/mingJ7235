@@ -8,6 +8,7 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;">
+          <img src="https://img.shields.io/badge/Kotlin-8A2BE2?style=flat&logo=Kotlin&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
 <!--           <img src="https://img.shields.io/badge/Kubernetes-3069de?style=flat-square&logo=Kubernetes&logoColor=white"> -->
