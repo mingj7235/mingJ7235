@@ -14,6 +14,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <img width="500" height="1" src="https://user-images.githubusercontent.com/0/0.png">
       <h3 align="center">⚽ FCS - FC Strategy</h3>
       <p align="center">
         <a href="https://fc-strategy.org/" target="_blank">
@@ -35,6 +36,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
+      <img width="500" height="1" src="https://user-images.githubusercontent.com/0/0.png">
       <h3 align="center">💎 BSTPG - 보석팀평가</h3>
       <p align="center">
         <a href="https://bstpg.com/" target="_blank">
