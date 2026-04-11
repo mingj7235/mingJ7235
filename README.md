@@ -11,7 +11,7 @@
 
 ## 🚀 Projects
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">⚽ FCS - FC Strategy</h3>
