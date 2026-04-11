@@ -26,10 +26,8 @@
         <img src="https://img.shields.io/badge/AI-FF6F61?style=flat&logo=OpenAI&logoColor=white"/>
       </p>
       <p>
-        <b>FC Online AI 전술 분석 & 선수 시세 분석 플랫폼</b><br><br>
-        • <b>굴리트 지수</b> 기반 선수 시세 AI 분석<br>
-        • 유저 스쿼드 기반 전술 AI 분석 & 최적 전략 추천<br>
-        • 데이터 드리븐 인사이트로 최적의 스쿼드 구성 제안
+        <b>FC Online AI 전술 분석 & 선수 시세 분석 플랫폼</b><br>
+        <b>굴리트 지수</b>를 핵심 지표로 활용한 선수 시세 AI 분석과, 유저의 스쿼드 기반 전술 AI 분석을 제공하는 서비스입니다. 데이터 기반의 전략적 인사이트로 최적의 스쿼드 구성과 전술을 추천합니다.
       </p>
     </td>
     <td width="50%" valign="top">
@@ -44,10 +42,8 @@
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
       </p>
       <p>
-        <b>FC Online 팀 평가 & 토론 커뮤니티</b><br><br>
-        • 인플루언서 <b>주간신보석</b>과 함께 운영하는 커뮤니티<br>
-        • 나의 팀을 공유하고 다른 유저들에게 평가 & 피드백 받기<br>
-        • 서로의 팀에 대해 자유롭게 토론하고 소통하는 공간
+        <b>FC Online 팀 평가 & 토론 커뮤니티</b><br>
+        인플루언서 주간신보석과 함께 운영하는 FC Online 팀 평가 커뮤니티입니다. 자신의 팀을 공유하고 평가받으며, 다른 유저들의 팀에 대해 자유롭게 토론하고 소통할 수 있는 공간입니다.
       </p>
     </td>
   </tr>
