@@ -13,11 +13,8 @@
 
 <table>
   <tr>
-    <th width="50%">⚽ FCS - FC Strategy</th>
-    <th width="50%">💎 BSTPG - 보석팀평가</th>
-  </tr>
-  <tr>
-    <td valign="top">
+    <td width="50%" valign="top">
+      <h3 align="center">⚽ FCS - FC Strategy</h3>
       <p align="center">
         <a href="https://fc-strategy.org/" target="_blank">
           <img src="https://img.shields.io/badge/🌐_fc--strategy.org-667eea?style=for-the-badge&logoColor=white" alt="FCS Website"/>
@@ -28,14 +25,15 @@
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
         <img src="https://img.shields.io/badge/AI-FF6F61?style=flat&logo=OpenAI&logoColor=white"/>
       </p>
-      <p><b>FC Online AI 전술 분석 & 선수 시세 분석 플랫폼</b></p>
-      <ul>
-        <li><b>굴리트 지수</b> 기반 선수 시세 AI 분석</li>
-        <li>스쿼드 기반 전술 AI 분석 & 전략 추천</li>
-        <li>데이터 기반 최적의 스쿼드 구성 제안</li>
-      </ul>
+      <p>
+        <b>FC Online AI 전술 분석 & 선수 시세 분석 플랫폼</b><br><br>
+        • <b>굴리트 지수</b> 기반 선수 시세 AI 분석<br>
+        • 유저 스쿼드 기반 전술 AI 분석 & 최적 전략 추천<br>
+        • 데이터 드리븐 인사이트로 최적의 스쿼드 구성 제안
+      </p>
     </td>
-    <td valign="top">
+    <td width="50%" valign="top">
+      <h3 align="center">💎 BSTPG - 보석팀평가</h3>
       <p align="center">
         <a href="https://bstpg.com/" target="_blank">
           <img src="https://img.shields.io/badge/🌐_bstpg.com-764ba2?style=for-the-badge&logoColor=white" alt="BSTPG Website"/>
@@ -45,12 +43,12 @@
         <img src="https://img.shields.io/badge/Kotlin-8A2BE2?style=flat&logo=Kotlin&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
       </p>
-      <p><b>FC Online 팀 평가 & 토론 커뮤니티</b></p>
-      <ul>
-        <li>인플루언서 <b>주간신보석</b>과 함께 운영</li>
-        <li>나의 팀을 평가받고 피드백 받기</li>
-        <li>다른 유저들의 팀에 대해 자유롭게 토론</li>
-      </ul>
+      <p>
+        <b>FC Online 팀 평가 & 토론 커뮤니티</b><br><br>
+        • 인플루언서 <b>주간신보석</b>과 함께 운영하는 커뮤니티<br>
+        • 나의 팀을 공유하고 다른 유저들에게 평가 & 피드백 받기<br>
+        • 서로의 팀에 대해 자유롭게 토론하고 소통하는 공간
+      </p>
     </td>
   </tr>
 </table>
