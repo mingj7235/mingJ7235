@@ -23,7 +23,7 @@
 
 <br>
 
-<table>
+<table width="100%" align="center">
   <tr>
     <td width="50%" valign="top">
       <h4>🧩 스쿼드 빌더</h4>
@@ -64,13 +64,32 @@
 
 ### 🏗️ Tech Stack & Architecture
 
-| 구분 | 스택 |
-|------|------|
-| **Backend** | Kotlin · Spring Boot 3.4 (JDK 21) · JPA · Flyway |
-| **Frontend** | React 19 · TypeScript · Vite · Tailwind CSS 4 · shadcn/ui |
-| **Database** | PostgreSQL 16 · Redis 7 |
-| **Infra** | AWS ECS Fargate · RDS · ElastiCache · S3 · CloudFront |
-| **CI/CD** | GitHub Actions · Docker (GHCR) · Nginx |
+<table width="100%" align="center">
+  <tr>
+    <th width="18%">구분</th>
+    <th>스택</th>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td>Kotlin · Spring Boot 3.4 (JDK 21) · JPA · Flyway</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td>React 19 · TypeScript · Vite · Tailwind CSS 4 · shadcn/ui</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Database</b></td>
+    <td>PostgreSQL 16 · Redis 7</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Infra</b></td>
+    <td>AWS ECS Fargate · RDS · ElastiCache · S3 · CloudFront</td>
+  </tr>
+  <tr>
+    <td align="center"><b>CI/CD</b></td>
+    <td>GitHub Actions · Docker (GHCR) · Nginx</td>
+  </tr>
+</table>
 
 - **Clean Architecture** — `Domain → Application(Port) → Adapter`, 백엔드와 프론트엔드 모두 동일한 구조로 설계
 - **무중단 운영** — 태그 기반 버전 배포 & 즉시 롤백, 점검 모드 자동 전환
