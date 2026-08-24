@@ -9,53 +9,74 @@
 
 <br>
 
-## 🚀 Projects
+## 💎 BSTPG — 보석팀평가
+
+<div align="center">
+  <a href="https://bstpg.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_bstpg.com-764ba2?style=for-the-badge&logoColor=white" alt="BSTPG Website"/>
+  </a>
+  <br><br>
+  <b>FC Online 스쿼드 빌더 & 팀 평가 커뮤니티 플랫폼</b>
+  <br>
+  <sub>인플루언서 <b>주간신보석</b>과 함께 운영하는 라이브 서비스입니다.</sub>
+</div>
+
+<br>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub>
-      <h3 align="center">⚽ FCS - FC Strategy</h3>
-      <p align="center">
-        <a href="https://fc-strategy.org/" target="_blank">
-          <img src="https://img.shields.io/badge/🌐_fc--strategy.org-667eea?style=for-the-badge&logoColor=white" alt="FCS Website"/>
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Kotlin-8A2BE2?style=flat&logo=Kotlin&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AI-FF6F61?style=flat&logo=OpenAI&logoColor=white"/>
-      </p>
-      <p><b>FC Online AI 전술 분석 & 선수 시세 분석 플랫폼</b></p>
+      <h4>🧩 스쿼드 빌더</h4>
       <ul>
-        <li><b>굴리트 지수</b> 기반 선수 시세 AI 분석</li>
-        <li>스쿼드 기반 전술 AI 분석 & 전략 추천</li>
-        <li>데이터 기반 최적의 스쿼드 구성 제안</li>
+        <li>포메이션 배치 & <b>OVR 자동 계산</b></li>
+        <li>팀컬러 효과 · 강화 등급 반영</li>
+        <li>완성한 스쿼드를 게시판에 공유</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub>
-      <h3 align="center">💎 BSTPG - 보석팀평가</h3>
-      <p align="center">
-        <a href="https://bstpg.com/" target="_blank">
-          <img src="https://img.shields.io/badge/🌐_bstpg.com-764ba2?style=for-the-badge&logoColor=white" alt="BSTPG Website"/>
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Kotlin-8A2BE2?style=flat&logo=Kotlin&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
-      </p>
-      <p><b>FC Online 팀 평가 & 토론 커뮤니티</b></p>
+      <h4>💎 팀 평가</h4>
       <ul>
-        <li>인플루언서 <b>주간신보석</b>과 함께 운영</li>
-        <li>나의 팀을 평가받고 피드백 받기</li>
+        <li>나의 팀을 평가받고 <b>전문 피드백</b> 받기</li>
         <li>다른 유저들의 팀에 대해 자유롭게 토론</li>
+        <li>Toss Payments 기반 평가 이용권 결제</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔍 선수 검색 & 리뷰</h4>
+      <ul>
+        <li>이름 검색 · 시즌 필터 · 능력치 상세</li>
+        <li>포지션별 OVR 확인</li>
+        <li>별점 리뷰 & 댓글로 선수 평가 공유</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏆 커뮤니티 & 랭킹</h4>
+      <ul>
+        <li>스쿼드 게시판 · 자유게시판 (추천 & 댓글)</li>
+        <li>포인트 기반 등급 & 랭킹 시스템</li>
+        <li>Nexon Open API 기반 <b>FC 닉네임 인증</b></li>
       </ul>
     </td>
   </tr>
 </table>
 
-> 📌 두 프로젝트 모두 **Private Repository**로 운영되고 있으며, 위 링크에서 실제 서비스를 확인하실 수 있습니다.
+### 🏗️ Tech Stack & Architecture
+
+| 구분 | 스택 |
+|------|------|
+| **Backend** | Kotlin · Spring Boot 3.4 (JDK 21) · JPA · Flyway |
+| **Frontend** | React 19 · TypeScript · Vite · Tailwind CSS 4 · shadcn/ui |
+| **Database** | PostgreSQL 16 · Redis 7 |
+| **Infra** | AWS ECS Fargate · RDS · ElastiCache · S3 · CloudFront |
+| **CI/CD** | GitHub Actions · Docker (GHCR) · Nginx |
+
+- **Clean Architecture** — `Domain → Application(Port) → Adapter`, 백엔드와 프론트엔드 모두 동일한 구조로 설계
+- **무중단 운영** — 태그 기반 버전 배포 & 즉시 롤백, 점검 모드 자동 전환
+- **외부 연동** — Nexon Open API (선수 데이터 · 닉네임 인증) · Toss Payments (결제)
+
+> 📌 **Private Repository**로 운영되고 있으며, [bstpg.com](https://bstpg.com/)에서 실제 서비스를 확인하실 수 있습니다.
 
 <br>
 
@@ -65,6 +86,14 @@
   <img src="https://img.shields.io/badge/Kotlin-8A2BE2?style=for-the-badge&logo=Kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonWebServices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=GitHubActions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=Nginx&logoColor=white"/>
 </div>
 
 <br>
